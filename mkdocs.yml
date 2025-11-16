@@ -11,7 +11,7 @@ site_description: Course about point cloud proccessing soft CloudCompare
 site_author: Tikhonov Dmitry
 
 # Ссылка на репозиторий, в котором хранятся исходные материалы.
-repo_url: 'https://github.com/Belan1709/cloud-compare-course'
+repo_url: 'https://github.com/rsgasanov/cloud-compare-course'
 
 # Относительный путь, который в сочетании со ссылкой на репозиторий (repo_url)
 # и относительным адресом страницы даст адрес, по которому можно вызвать
